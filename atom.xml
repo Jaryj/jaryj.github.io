@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jaryj.github.io</id>
+    <title>Jaryj&apos;s Bolg</title>
+    <updated>2022-09-01T14:41:28.556Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jaryj.github.io"/>
+    <link rel="self" href="https://jaryj.github.io/atom.xml"/>
+    <subtitle>一个大致以编程为主题的博客</subtitle>
+    <logo>https://jaryj.github.io/images/avatar.png</logo>
+    <icon>https://jaryj.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Jaryj&apos;s Bolg</rights>
+</feed>
